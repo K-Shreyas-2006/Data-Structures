@@ -1,0 +1,7 @@
+#include <stdio.h>
+#include <stdlib.h>
+// Structure for Tree Node
+struct Node {
+int data;
+struct Node *left, *right;
+};
